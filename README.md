@@ -6,6 +6,7 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 **NOTAS DE CLASE:** Latex files for the set of class notes.
 
 ## NOTEBOOKS
+
 [NB-0: Sample Notebook:](<https://bit.ly/2WDgccX)
 
 [NB-1: One-dimensional Lagrange interpolation:](<https://bit.ly/2Sm92dZ>)

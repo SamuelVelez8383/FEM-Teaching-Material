@@ -6,4 +6,4 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 **NOTAS DE CLASE:** Latex files for the set of class notes.
 
 ## NOTEBOOKS
-[First Notebook](<https://nbviewer.jupyter.org/github/jgomezc1/FEM-Teaching-Material/blob/master/NB%200%20Sample.ipynb>)
+[NB-0: Sample Notebook](<https://bit.ly/2WDgccX)

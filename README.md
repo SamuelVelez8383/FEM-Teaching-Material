@@ -16,4 +16,4 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 
 [NB-3: Two-dimensional Lagrange interpolation](<https://bit.ly/2Rx8IVm>)
 
-[NB-4: Application.Visualization of a solution using a mesh](<https://bit.ly/2G1es8k>)
+[NB-4: Application.Visualization of a solution using a mesh](<https://bit.ly/2SH0war>)

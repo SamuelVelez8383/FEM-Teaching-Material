@@ -10,7 +10,7 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 
 [NB-0: Sample Notebook](<https://bit.ly/2WDgccX>)
 
-[NB-1: One-dimensional Lagrange interpolation](https://nbviewer.jupyter.org/github/jgomezc1/FEM-Teaching-Material/blob/master/Notebooks/NB%201%20LAGRANGE1D.ipynb)
+[NB-1: One-dimensional Lagrange interpolation](<https://bit.ly/2Sm92dZ>)
 
 [NB-2: Piece-wise interpolation](https://bit.ly/2RxBftM>)
 

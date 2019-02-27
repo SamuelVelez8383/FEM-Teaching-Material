@@ -17,3 +17,5 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 [NB-3: Two-dimensional Lagrange interpolation](<https://bit.ly/2RxBftM>)
 
 [NB-4: Application. Visualization of a solution in a complete domain](<https://bit.ly/2SH0war>)
+
+[NB-5: Numerical integration in the Finite Element Method](<https://bit.ly/2TpVw9w>)

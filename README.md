@@ -27,3 +27,5 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 [NB-8: Finite element formulation of the elasticity BVP](<https://bit.ly/2TJhZzF>)
 
 [NB-9: Assembly of the FEM equlibrium equations](<https://bit.ly/2FLXxFF>)
+
+[NB-10: Solution and post-processing](<https://bit.ly/2CNZOOM>)

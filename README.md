@@ -29,3 +29,5 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 [NB-9: Assembly of the FEM equlibrium equations](<https://bit.ly/2FLXxFF>)
 
 [NB-10: Solution and post-processing](<https://bit.ly/2CNZOOM>)
+
+[NB-11: Convergency of the analysis results](<https://bit.ly/2TYdg8o>)

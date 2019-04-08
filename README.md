@@ -8,7 +8,7 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 
 ## NOTEBOOKS
 
-[NB-0: Sample Notebook](<https://bit.ly/2WDgccX>)
+[NB-0: Introductory Notebook](<https://bit.ly/2KlcO4o>)
 
 [NB-1: One-dimensional Lagrange interpolation-Principles](<https://bit.ly/2I7mjm1>)
 

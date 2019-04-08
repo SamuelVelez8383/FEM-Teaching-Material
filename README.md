@@ -10,9 +10,9 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 
 [NB-0: Sample Notebook](<https://bit.ly/2WDgccX>)
 
-[NB-1: One-dimensional Lagrange interpolation](<https://bit.ly/2Sm92dZ>)
+[NB-1: One-dimensional Lagrange interpolation-Principles](<https://bit.ly/2Sm92dZ>)
 
-[NB-2: Piece-wise interpolation](https://bit.ly/2RxBftM>)
+[NB-2: One-dimensional Lagrange interpolation-Local scheme](<https://bit.ly/2Sm92dZ>)
 
 [NB-3: Two-dimensional Lagrange interpolation](<https://bit.ly/2RxBftM>)
 

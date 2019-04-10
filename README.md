@@ -20,7 +20,7 @@ This REPO contains teaching material for an introductory course on Finite Elemen
 
 [NB-5: Numerical integration in the Finite Element Method](<https://bit.ly/2TpVw9w>)
 
-[NB-6: Homework: Computation of the stiffness matrix](<https://bit.ly/2Tc2Lml>)
+[NB-6: Computation of the stiffness matrix](<https://bit.ly/2Tc2Lml>)
 
 [NB-7: The linearized theory of elasticity](<https://bit.ly/2TLoLoz>)
 

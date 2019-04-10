@@ -1,4 +1,8 @@
 # FEM-Teaching-Material
+
+![Stress field on a wrench.](./Notebooks/img/wrench.png)
+
+
 Introductory Course on Finite Element Method.
 This REPO contains teaching material for an introductory course on Finite Element Analysis. This is just preliminary work. The REPO contains two main folder namely;
 

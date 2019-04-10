@@ -1,6 +1,6 @@
 # FEM-Teaching-Material
 
-.. figure:: https://github.com/jgomezc1/FEM-Teaching-Material/tree/master/Notebooks/img/wrench.png
+.. figure:: https://raw.githubusercontent.com/jgomezc1/FEM-Teaching-Material/tree/master/Notebooks/img/wrench.png
    :alt: Wrench under bending.
    
   

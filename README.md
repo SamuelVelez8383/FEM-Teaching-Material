@@ -1,7 +1,24 @@
-# FEM-Teaching-Material
+# Introduction to the Finite Element Method
 
-Introductory Course on Finite Element Method.
-This REPO contains teaching material for an introductory course on Finite Element Analysis. This is just preliminary work. The REPO contains two main folder namely;
+## Introduction.
+
+This REPO contains teaching resources for an introductory course on Finite Element Analysis. The course in its present form is intended for last year undergraduate students enrolled in the **Mechanical Engineering** and **Civil Engineering** programs at Universidad EAFIT and for first semester graduate students enrolled in the MsC and PhD programs in the Applied Mechanics track. The course emphasizes on the solution, trhough finite element algorithms, of the theory of elasticity boundary value problem. It combines theoretical aspects and computational implementations in Python. The material for this introductory course has been typically covered in an 18-weeks semester with 2 hours long weekly meetings.
+
+## Flipped class approach.
+
+The course has been designed to be imparted in a **Flipped classroom environment** where most of the theoretical contents are covered by the student through independent study complemented with brief homework assignements. On the other hand, the 2-hour class session is invested in hands-on computational and theoretical exrecises under the instructor guidance. For that purpose the following resources are available in this REPO:
+
+* **Lecture notes:** A recopilation of theoretical material covered in several textbooks and independent developments by the Applied Mechanics Group organized to facilitate independent study.
+
+* **Notebooks:** A series of 12 Jupyter notebooks summarizing the theoretical discussion, treated in more detail in the lecture notes, combined with computer implementations in Python subroutines. The notebooks contain brief activities intended for self-learning and several in-class homework to be developed under the instructor's guidance.
+
+* **SolidsPy:** A Python based finite element code for the stress analysis of arbitrary two-dimensional domains. The code, developed by the Applied Mechanics Group, is structured to be used as a stand-alone application or through the combintation of independent subroutines.
+
+
+
+
+
+This is just preliminary work. The REPO contains two main folder namely;
 
 **NOTEBOOKS:** Source files for the course notebooks. Better visualized from nbviewer following the links below.
 

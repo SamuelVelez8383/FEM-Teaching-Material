@@ -1,6 +1,9 @@
 # FEM-Teaching-Material
 
-![Stress field on a wrench.](./Notebooks/img/wrench.png)
+.. figure:: https://github.com/jgomezc1/FEM-Teaching-Material/tree/master/Notebooks/img/wrench.png
+   :alt: Wrench under bending.
+   
+  
 
 
 Introductory Course on Finite Element Method.

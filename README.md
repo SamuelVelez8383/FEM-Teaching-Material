@@ -12,7 +12,7 @@ The course has been designed to be imparted in a **Flipped classroom environment
 
 * **Notebooks:** A series of 12 Jupyter notebooks summarizing the theoretical discussion, treated in more detail in the lecture notes, combined with computer implementations in Python subroutines. The notebooks contain brief activities intended for self-learning and several in-class homework to be developed under the instructor's guidance.
 
-* **SolidsPy:** A Python based finite element code for the stress analysis of arbitrary two-dimensional domains. The code, developed by the Applied Mechanics Group, is structured to be used as a stand-alone application or through the combintation of independent subroutines.
+* **SolidsPy:** A Python based finite element code for the stress analysis of arbitrary two-dimensional domains. The code, developed by the Applied Mechanics Group, is structured to be used as a stand-alone application or through the combintation of independent subroutines. The code is available in the Applied Mechanics Repo `easygui <https://github.com/AppliedMechanics-EAFIT/SolidsPy>`__.
 
 
 

@@ -1,7 +1,5 @@
 # FEM-Teaching-Material
 
-.. figure:: https://raw.githubusercontent.com/jgomezc1/FEM-Teaching-Material/master/Notebooks/img/wrench.png
-
 Introductory Course on Finite Element Method.
 This REPO contains teaching material for an introductory course on Finite Element Analysis. This is just preliminary work. The REPO contains two main folder namely;
 

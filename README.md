@@ -1,7 +1,7 @@
 # Introduction to the Finite Element Method
 
 
-![Scattering of SH waves.](./Notebooks/img/wrench.png)
+![Displacement field in a wrench.](./Notebooks/img/wrench.png)
 
 
 ## Introduction.

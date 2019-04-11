@@ -1,5 +1,9 @@
 # Introduction to the Finite Element Method
 
+
+![Scattering of SH waves.](./Notebooks/img/wrench.png)
+
+
 ## Introduction.
 
 This REPO contains teaching resources for an introductory course on Finite Element Analysis. The course in its present form is intended for last year undergraduate students enrolled in the **Mechanical Engineering** and **Civil Engineering** programs at Universidad EAFIT and for first semester graduate students enrolled in the **MsC** and **PhD** programs in the Applied Mechanics track. The course emphasizes on the solution, trhough finite element algorithms, of the theory of elasticity boundary value problem. It combines theoretical aspects and computational implementations in Python. The material for this introductory course has been typically covered in an 18-weeks semester with 2 hours long weekly meetings. The course is divided in three parts. It starts by covering standard numerical methods such as interpolation theory and numerical quadratures which are numerical tools required in the formulation of finite element algorithms. The course continues with a review of the problem of theory of elsticity, and particularly its formulation in the form of a boundary value problem stated in terms of the Principle of Virtual Work. The third and final part uses the covered numerical techniques to generate a finite element representation of the virtual work principle.

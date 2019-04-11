@@ -17,7 +17,7 @@ The course has been designed to be imparted in a **Flipped classroom environment
 
 ## Contents.
 
-The course contents are those described by the following set of notebooks.
+The course contents are those described by the following set of notebooks. **NB-0** covers the basics of Notebooks and provides examples of basic programming skills in Python. **NB-1** through **NB-5** presents standard interpolation and numerical integration techniques but within the context of the finite element method. In particular, **NB-4** applies an intial definition of a finite element to a problem of visualization of functions over two-dimensonal domains. The formulation of the finite element method to the elasticity problem is strictly defined in **NB-8** and following.
 
 [NB-0: Introductory Notebook](<https://bit.ly/2KlcO4o>)
 

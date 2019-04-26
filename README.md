@@ -46,3 +46,5 @@ The course contents are those described by the following set of notebooks. **NB-
 [NB-10: Solution and post-processing](<https://bit.ly/2CNZOOM>)
 
 [NB-11: Convergency of the analysis results](<https://bit.ly/2TYdg8o>)
+
+[NB-12: Finite element analysis with SolidsPy](<https://bit.ly/2Gw58Hi>)

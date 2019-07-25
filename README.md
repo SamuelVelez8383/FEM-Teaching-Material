@@ -25,6 +25,8 @@ The course contents are those described by the following set of notebooks. **NB-
 
 [NB-0: Introductory Notebook](<https://bit.ly/2KlcO4o>)
 
+[NB-0a: A simple finite element code](<https://bit.ly/2OyGYn9>)
+
 [NB-1: One-dimensional Lagrange interpolation-Principles](<https://bit.ly/2I7mjm1>)
 
 [NB-2: One-dimensional Lagrange interpolation-Local scheme](<https://bit.ly/2YV1eQM>)
